@@ -1,0 +1,10 @@
+body {
+    background-color: blue;
+}
+
+
+.demo-component {
+    background-color: rgb(82,130,125);
+    width:500px;
+    height: 500px;
+}

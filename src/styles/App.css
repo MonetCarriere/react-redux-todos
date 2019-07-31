@@ -1,0 +1,23 @@
+html {box-sizing:border-box;}
+*, *::before, *::after {box-sizing:inherit;}
+
+body{
+    background-color: rgb(255,255,255);
+}
+
+li {
+    list-style: none;
+}
+
+.demo-component {
+    background-color: #689D99;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+form {
+    margin:auto;
+}
